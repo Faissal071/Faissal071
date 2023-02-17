@@ -1,8 +1,6 @@
 ﻿# Hey, I'm Fais! 👋
 
-I'm majoring in Forensic IT at University of Applied Sciences.
-- 👨🏽‍💻 Currently working and growing my skillset in programming forensic toolkits
-- 🤝 Often collaborating with co-students to make awesome projects (and open to collaborations regarding open-source projects!)
+I'm majoring in Forensic IT at University of Applied Sciences Leiden, Netherlands.
 
 ## Connect with me 🤝:
 
